@@ -2,16 +2,23 @@
 
 日本語 | [English](README.en.md)
 
-フォルダ内の画像を素早く確認できる、軽量な画像ビューアです。
-JPG / PNG / WebP / GIF に対応しています。
+**フォルダ内の画像を素早く確認できる、軽量な画像ビューア。**  
+- JPG / PNG / WebP / GIF に対応。
+---
+## 動作環境
+- Windows 11(64bit)
+- macOS(Apple Silicon の Mac。macOS 26 で動作確認)
+---
+<p align="center">
+  <img src="./readme-image/RaijinViewer.png" width="64" alt="dotmd Icon">
+</p>
+
+<p align="center">
+  <img src="./readme-image/RaijinViewer-mac.png" width="500" alt="dotmd Icon">
+</p>
 
 - 設定・ログなどは **Windows では `RaijinViewer.exe` と同じフォルダ内**に保存されます(`%AppData%` などには何も作りません)。macOS では `~/Library/Application Support/RaijinViewer` に保存されます
 - 表示は日本語と英語に対応。OS の言語に合わせて自動で選ばれ(日本語なら日本語、それ以外は英語)、**L キー**でいつでも切り替えられます
-
-## 動作環境
-
-- Windows 11(64bit)
-- macOS(Apple Silicon の Mac。macOS 26 で動作確認)
 
 ## 使い方
 

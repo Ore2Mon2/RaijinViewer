@@ -2,16 +2,24 @@
 
 [日本語](README.md) | English
 
-A lightweight image viewer for quickly checking the images in a folder.
-Supports JPG / PNG / WebP / GIF.
+**A lightweight image viewer for quickly checking the images in a folder.**  
+- Supports JPG / PNG / WebP / GIF.
+---
+## Requirements
+- Windows 11 (64-bit)
+- macOS (Apple Silicon Mac; tested on macOS 26)
+---
+<p align="center">
+  <img src="./readme-image/RaijinViewer.png" width="64" alt="dotmd Icon">
+</p>
+
+<p align="center">
+  <img src="./readme-image/RaijinViewer-mac.png" width="500" alt="dotmd Icon">
+</p>
 
 - Settings, logs and everything else are stored **in the same folder as `RaijinViewer.exe` on Windows** (nothing is written to `%AppData%`), and in `~/Library/Application Support/RaijinViewer` on macOS
 - The UI is available in Japanese and English: it follows the OS language (Japanese if the OS language is Japanese, English otherwise), and you can switch at any time by pressing **L**
 
-## Requirements
-
-- Windows 11 (64-bit)
-- macOS (Apple Silicon Mac; tested on macOS 26)
 
 ## Usage
 
