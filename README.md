@@ -1,4 +1,4 @@
-# RaijinViewer
+# Raijin Viewer
 
 日本語 | [English](README.en.md)
 
