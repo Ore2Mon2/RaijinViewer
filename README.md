@@ -14,7 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="./readme-image/RaijinViewer-mac.png" width="500" alt="dotmd Icon">
+  <img src="./readme-image/01.png" width="500" alt="dotmd Icon">
+</p>
+<p align="center">
+  <img src="./readme-image/02.png" width="500" alt="dotmd Icon">
 </p>
 
 - 設定・ログなどは **Windows では `RaijinViewer.exe` と同じフォルダ内**に保存されます(`%AppData%` などには何も作りません)。macOS では `~/Library/Application Support/RaijinViewer` に保存されます
@@ -53,7 +56,6 @@
 | 右ダブルクリック | 上下のバーを隠す / 表示 |
 | 左右ボタン同時押し | サムネイルパネルの表示 / 非表示 |
 | 左ボタン + 戻るボタン同時押し | ファイルを削除 |
-| 左下のアイコンを右クリック | 最近開いたフォルダの一覧を表示(クリックで開く) |
 | サムネイル / 画像をドラッグ | エクスプローラー(Finder)のフォルダへ**コピー** |
 | Shift + ドラッグ | エクスプローラー(Finder)のフォルダへ**移動** |
 

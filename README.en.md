@@ -14,7 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="./readme-image/RaijinViewer-mac.png" width="500" alt="dotmd Icon">
+  <img src="./readme-image/01.png" width="500" alt="dotmd Icon">
+</p>
+<p align="center">
+  <img src="./readme-image/02.png" width="500" alt="dotmd Icon">
 </p>
 
 - Settings, logs and everything else are stored **in the same folder as `RaijinViewer.exe` on Windows** (nothing is written to `%AppData%`), and in `~/Library/Application Support/RaijinViewer` on macOS
@@ -54,7 +57,6 @@ Drop an image file or a folder onto the window.
 | Right double-click | Hide / show the top and bottom bars |
 | Left + right buttons together | Show / hide the thumbnail panel |
 | Left button + back button together | Delete the file |
-| Right-click the bottom-left icon | Show the recent folders list (click to open) |
 | Drag a thumbnail / the image | **Copy** the file to a folder in Explorer (Finder) |
 | Shift + drag | **Move** the file to a folder in Explorer (Finder) |
 
