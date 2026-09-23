@@ -5,6 +5,10 @@
 **フォルダ内の画像を素早く確認できる、軽量な画像ビューア。**  
 - JPG / PNG / WebP / GIF に対応。
 ---
+## アプリケーションサイト
+https://raijinviewer.oreno.site/
+
+---
 ## 動作環境
 - Windows 11(64bit)
 - macOS(Apple Silicon の Mac。macOS 26 で動作確認)

@@ -5,6 +5,10 @@
 **A lightweight image viewer for quickly checking the images in a folder.**  
 - Supports JPG / PNG / WebP / GIF.
 ---
+## Application Site
+https://raijinviewer.oreno.site/
+
+---
 ## Requirements
 - Windows 11 (64-bit)
 - macOS (Apple Silicon Mac; tested on macOS 26)
