@@ -1,6 +1,6 @@
 # Raijin Viewer
 
-日本語 | [English](README.en.md)
+Japanese | [English](README.en.md)
 
 **フォルダ内の画像を素早く確認できる、軽量な画像ビューア。**  
 - JPG / PNG / WebP / GIF に対応。
